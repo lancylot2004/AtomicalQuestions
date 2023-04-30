@@ -2,14 +2,15 @@
   "appName": "Atomical 2023",
   "appDesc": "Atomic's 2023 Challenge",
   "wb": {
-    "defaultFileName": "S1-PCS.md",
+    "defaultFileName": "INFO-WHAT.md",
+    "defaultFileLoc": ["INFO", "WHAT"],
     "baseURL": "https://raw.githubusercontent.com/lancylot2004/AtomicalQuestions/main/2023/"
   },
   "et": {
     "branch": "main",
     "charset": "UTF-8",
     "mode": "Markdown",
-    "options": "g",
+    "options": "gm",
     "minT": 5000,
     "maxT": 20000,
     "regexes": [
